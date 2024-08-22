@@ -1,5 +1,5 @@
 # WARPActivator
-Активатор Cloudflare (TM) WARP для Windows-10 (в 11 не проверялось)
+Активатор Cloudflare (TM) WARP для Windows-10 (в 11 не проверялось).
 
 В проекте использована утилита [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) от ValdikSS (за что ему респект и уважуха).
 
