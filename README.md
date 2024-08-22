@@ -17,4 +17,4 @@ a cloud icon will appear in the tray at the bottom right
 5. If the connection attempt was unsuccessful,
 click the button again until the connection appears
 
-![](https://github.com/AKotov-dev/WARPActivator/blob/main/ScreenShot1.png)
+![](https://github.com/AKotov-dev/WARPActivator/blob/main/ScreenShot2.png)
