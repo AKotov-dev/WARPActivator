@@ -3,7 +3,7 @@
 
 В проекте использована утилита [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) от `ValdikSS` (за что ему респект и уважуха).
 
-Скачайте архив [WARPActivator.zip](https://github.com/AKotov-dev/WARPActivator/raw/main/WARPActivator.zip), распакуйте и запустите от Администратора файл `WARPActivator.exe`. Скачайте и установите Cloudflare (TM) [WARP](https://1111-releases.cloudflareclient.com/win/latest). Нажмите кнопку `Активация WARP`. Если попытка соединения была неудачной, нажимайте кнопку до успешного подключения. Сделано в Windows-10, Lazarus-3.4.
+Скачайте архив [WARPActivator.zip](https://github.com/AKotov-dev/WARPActivator/raw/main/WARPActivator.zip), распакуйте и запустите от Администратора файл `WARPActivator.exe`. Скачайте и установите Cloudflare (TM) [WARP](https://1111-releases.cloudflareclient.com/win/latest), примите условия Лицензии. Нажмите кнопку `Активация WARP`. Если попытка соединения была неудачной, нажимайте кнопку до успешного подключения. Сделано в Windows-10, Lazarus-3.4.
 
 1. Launch `WARPActivator.exe` file
 
