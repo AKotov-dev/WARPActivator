@@ -17,6 +17,6 @@ a cloud icon will appear in the tray at the bottom right
 5. If the connection attempt was unsuccessful,
 click the button again until the connection appears
 
-![](https://github.com/AKotov-dev/WARPActivator/blob/main/ScreenShot5.png)
+![](https://github.com/AKotov-dev/WARPActivator/blob/main/ScreenShot-v0.5.png)
 
 Начиная с версии `WARPActivator-v0.4` добавлен [экспериментальный режим](https://github.com/ValdikSS/GoodbyeDPI) "Редирект DNS". Если активация успешна именно в этом режиме, необходимо заменить системные DNS в параметрах сетевого подключения на Google или другие, которые не принадлежат провайдеру.
