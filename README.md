@@ -7,18 +7,8 @@
 
 Скачайте архив [WARPActivator.zip](https://github.com/AKotov-dev/WARPActivator/raw/main/WARPActivator.zip), распакуйте и запустите от Администратора файл `WARPActivator.exe`. Нажмите кнопку `Активация WARP` (см. скриншот). Если попытка соединения была неудачной, нажимайте кнопку до успешного подключения. Сделано в Windows-10, Lazarus-3.4.
 
-1. Download and Install Cloudflare (TM) WARP,
-a cloud icon will appear in the tray at the bottom right
-
-2. Accept the terms of the WARP License
-
-3. Run the `WARPActivator.exe` file as Administrator
-
-4. Click the `WARP Activation` button
-
-5. If the connection attempt was unsuccessful,
-click the button again until the connection appears
+**Примечание:** Начиная с `WARPActivator-v0.6` для удобства добавлен инсталлятор [WARPActivator_Setup.exe](https://github.com/AKotov-dev/WARPActivator/raw/main/WARPActivator_Setup.exe): быстрая установка и запуск с ярлыка на Рабочем Столе.
 
 ![](https://github.com/AKotov-dev/WARPActivator/blob/main/ScreenShot-v0.5.png)
 
-Начиная с версии `WARPActivator-v0.4` добавлен [экспериментальный режим](https://github.com/ValdikSS/GoodbyeDPI) "Редирект DNS". Если активация успешна именно в этом режиме, необходимо заменить системные DNS в параметрах сетевого подключения на Google или другие, которые не принадлежат провайдеру (yandex не рекомендуется).
+Начиная с `WARPActivator-v0.4` добавлен [экспериментальный режим](https://github.com/ValdikSS/GoodbyeDPI) "Редирект DNS". Если активация успешна именно в этом режиме, необходимо заменить системные DNS в параметрах сетевого подключения на Google или другие, которые не принадлежат провайдеру (yandex не рекомендуется).
