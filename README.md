@@ -1,6 +1,8 @@
 # WARPActivator
 Активатор Cloudflare (TM) WARP для Windows-10/11.
 
+ЖАТЬ КНОПКУ НУЖНО НЕСКОЛЬКО РАЗ. Работает Random. 60 комбинаций. Кнопку нужно жать до подключения.
+
 В проекте использована утилита [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) от `ValdikSS` (за что ему респект и уважуха).
 
 Скачайте и установите Cloudflare (TM) [WARP](https://1111-releases.cloudflareclient.com/win/latest), примите условия Лицензии.
